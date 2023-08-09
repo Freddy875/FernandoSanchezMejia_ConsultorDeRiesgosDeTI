@@ -6,6 +6,8 @@
 
 Soy Consultor de Riesgos de Tecnologías de la Información, especializado en ayudar a las empresas a detectar y reducir riesgos de seguridad. Proporciono recomendaciones efectivas basadas en los marcos ITIL, COBIT e ISO 27001. Me fascina ver cómo mi trabajo permite a las empresas y personas mantener su estilo de vida sin interrupciones.
 
+<hr> <!-- Línea que divide las secciones -->
+
 # Experiencia
 
 ## Deloitte | Risk Advisory - julio de 2021 - febrero de 2023 (1 año 8 meses) Área metropolitana de Ciudad de México.
@@ -31,6 +33,8 @@ Soy Consultor de Riesgos de Tecnologías de la Información, especializado en ay
 - Realización del registro preciso de estados de cuenta de créditos en Excel, asegurando la integridad y exactitud de la información financiera.
 - Experiencia en atención al cliente, brindando orientación y dirección efectiva hacia el área adecuada según sus necesidades.
 
+<hr> <!-- Línea que divide las secciones -->
+
 # Contactos
 
 - Ciudad: Coyoacán, CDMX
@@ -47,22 +51,37 @@ Soy Consultor de Riesgos de Tecnologías de la Información, especializado en ay
 <img src="LinkedIn-icon.png" alt="LinkedIn-icon.png" width="25px"/>
 <div class="badge-base LI-profile-badge" data-locale="es_ES" data-size="medium" data-theme="dark" data-type="HORIZONTAL" data-vanity="fernando-sanchez-mejia" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://mx.linkedin.com/in/fernando-sanchez-mejia?trk=profile-badge">Fernando Sanchez Mejia</a></div>          
 
+<hr> <!-- Línea que divide las secciones -->
+
+
 ## Sitios web
 
 Presento una muestra de los sitios web que he creado, así como una selección de cursos que he completado y cuyas notas deseo compartir. Esta información, que estoy ansioso/a por proporcionar, refleja mi compromiso con el aprendizaje constante y la creación de soluciones efectivas. Estoy seguro/a de que estos logros serán valiosos activos para oportunidades futuras
 
 **Sway:** [https://sway.office.com/GDKJlmv2QJXFYJ7y?ref=Link&loc=play](https://sway.office.com/GDKJlmv2QJXFYJ7y?ref=Link&loc=play)
 
+<hr> <!-- Línea que divide las secciones -->
+
+
 
 **Estrategias para aprender en línea efectivamente:**
 
 [https://freddy875.github.io/EstrategiasParaAprenderEnLineaEfectivamente/](https://freddy875.github.io/EstrategiasParaAprenderEnLineaEfectivamente/)
 
+<hr> <!-- Línea que divide las secciones -->
+
+
 <iframe src="https://freddy875.github.io/EstrategiasParaAprenderEnLineaEfectivamente/" width="800" height="600" frameborder="0"></iframe>
+
+<hr> <!-- Línea que divide las secciones -->
+
 
 **Masterclass de Design Thinking y Lean Startup:** [https://freddy875.github.io/MasterclassDeDesignThinkingyLeanStartup/](https://freddy875.github.io/MasterclassDeDesignThinkingyLeanStartup/)
 
 <iframe src="https://freddy875.github.io/MasterclassDeDesignThinkingyLeanStartup/" width="800" height="600" frameborder="0"></iframe>
+
+<hr> <!-- Línea que divide las secciones -->
+
 
 ## Aptitudes principales
 
@@ -82,12 +101,17 @@ Presento una muestra de los sitios web que he creado, así como una selección d
 - Integridad
 - Aprendizaje Continuo
 
+<hr> <!-- Línea que divide las secciones -->
+
+
 ## Certificaciones
 
 - Guía para Aprender SeguridadInformática - Platzi - 2023 - 30h
 - Cybersecurity Roles,Processes & Operating SystemSecurity - Coursera 2021 - 30h
 - ITIL® Foundation Certificate inITService Management -Axelos - 2021 - 40h
 - Scrum Fundamentals - Scrum Study - 2021 -30h.
+
+<hr> <!-- Línea que divide las secciones -->
 
 ## Programas
 
@@ -98,15 +122,17 @@ Presento una muestra de los sitios web que he creado, así como una selección d
 - Notion - 60%
 - ChatGPT - 40%
 
+<hr> <!-- Línea que divide las secciones -->
+
 ## Lenguajes
 
 <aside>
-🇲🇽 Español, Nativo
+U+1F1F2 U+1F1FD 🇲🇽 Español, Nativo
 
 </aside>
 
 <aside>
-🇺🇸 English, 480 TOEFL (B1 intermediate)
+U+1F1FA U+1F1F8 🇺🇸 English, 480 TOEFL (B1 intermediate)
 
 </aside>
 
