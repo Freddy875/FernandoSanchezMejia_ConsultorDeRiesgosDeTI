@@ -42,11 +42,12 @@ Soy Consultor de Riesgos de Tecnologías de la Información, especializado en ay
 
 <img src="LinkedIn-icon.png" alt="LinkedIn-icon.png" width="20px" /> LinkedIn: [https://www.linkedin.com/in/fernando-sanchez-mejia/](https://www.linkedin.com/in/fernando-sanchez-mejia/)
 
-</aside>
+<iframe src="https://www.linkedin.com/in/fernando-sanchez-mejia/" width="800" height="600" frameborder="0"></iframe>
+
+
 
 [https://www.linkedin.com/in/fernando-sanchez-mejia/](https://www.linkedin.com/in/fernando-sanchez-mejia/)
 
----
 
 ## Sitios web
 
