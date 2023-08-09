@@ -1,13 +1,6 @@
 .callout {
 	border-radius: 10px;
-      background-color: lightgray;
-      padding: 20px;
-      margin: 20px;
+    background-color: lightgray;
+    padding: 20px;
+    margin: 20px;
 }
-
-.block-color-gray {
-	color: rgba(120, 119, 116, 1);
-	fill: rgba(120, 119, 116, 1);
-}
-
-
