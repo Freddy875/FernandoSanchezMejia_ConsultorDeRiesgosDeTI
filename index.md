@@ -38,10 +38,9 @@ Soy Consultor de Riesgos de Tecnologías de la Información, especializado en ay
 
 <img src="icono-gmail.png" alt="icono-gmail.png" width="20px"> Correo secundario: fer8075nandosm@gmail.com
 
-<img src="https://www.notion.so/icons/phone-call_gray.svg" alt="https://www.notion.so/icons/phone-call_gray.svg" width="20px" /> Celular: (+52) 5621523271
+<img src="https://www.notion.so/icons/phone-call_gray.svg" alt="https://www.notion.so/icons/phone-call_gray.svg" width="25px" /> Celular: (+52) 5621523271
 
-<aside>
-<img src="Fernando%20Sa%CC%81nchez%20Meji%CC%81a%20-%20Consultor%20de%20riesgos%20de%20f7b8de619e6e431baffe88fe28410ad1/LinkedIn-icon.png" alt="Fernando%20Sa%CC%81nchez%20Meji%CC%81a%20-%20Consultor%20de%20riesgos%20de%20f7b8de619e6e431baffe88fe28410ad1/LinkedIn-icon.png" width="40px" /> LinkedIn: [https://www.linkedin.com/in/fernando-sanchez-mejia/](https://www.linkedin.com/in/fernando-sanchez-mejia/)
+<img src="LinkedIn-icon.png" alt="LinkedIn-icon.png" width="20px" /> LinkedIn: [https://www.linkedin.com/in/fernando-sanchez-mejia/](https://www.linkedin.com/in/fernando-sanchez-mejia/)
 
 </aside>
 
