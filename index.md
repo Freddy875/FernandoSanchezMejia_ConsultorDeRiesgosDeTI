@@ -47,6 +47,7 @@ Soy Consultor de Riesgos de Tecnologías de la Información, especializado en ay
 <img src="LinkedIn-icon.png" alt="LinkedIn-icon.png" width="25px" /> LinkedIn: https://www.linkedin.com/in/fernando-sanchez-mejia/
 
 
+Estes es el enbebido
 <div class="badge-base LI-profile-badge" data-locale="es_ES" data-size="medium" data-theme="dark" data-type="HORIZONTAL" data-vanity="fernando-sanchez-mejia" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://mx.linkedin.com/in/fernando-sanchez-mejia?trk=profile-badge">Fernando Sanchez Mejia</a></div> <!--Esta es la insignia que copiamos de LinkedIn, para probar si funciona el embebido-->
               
 ## Sitios web
