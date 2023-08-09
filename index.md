@@ -44,11 +44,6 @@ Soy Consultor de Riesgos de Tecnologías de la Información, especializado en ay
 
 <iframe src="https://www.linkedin.com/in/fernando-sanchez-mejia/" width="800" height="600" frameborder="0"></iframe>
 
-
-
-[https://www.linkedin.com/in/fernando-sanchez-mejia/](https://www.linkedin.com/in/fernando-sanchez-mejia/)
-
-
 ## Sitios web
 
 Presento una muestra de los sitios web que he creado, así como una selección de cursos que he completado y cuyas notas deseo compartir. Esta información, que estoy ansioso/a por proporcionar, refleja mi compromiso con el aprendizaje constante y la creación de soluciones efectivas. Estoy seguro/a de que estos logros serán valiosos activos para oportunidades futuras
