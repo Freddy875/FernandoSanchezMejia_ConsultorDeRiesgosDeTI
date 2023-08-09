@@ -1,3 +1,5 @@
+<link rel="stylesheet" type="text/css" href="styles.css">
+
 # Fernando Sánchez Mejía - Consultor de riesgos de TI | Risk Advisory
 
 # Extracto
