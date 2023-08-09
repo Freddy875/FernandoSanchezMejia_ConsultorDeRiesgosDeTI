@@ -34,30 +34,29 @@ Soy Consultor de Riesgos de Tecnologías de la Información, especializado en ay
 - Ciudad: Coyoacán, CDMX
 - Tengo disponibilidad para llamadas y correos de lunes a viernes de 10 a 14 y de 16 a 18.
 
-<aside>
-<img src="Fernando%20Sa%CC%81nchez%20Meji%CC%81a%20-%20Consultor%20de%20riesgos%20de%20f7b8de619e6e431baffe88fe28410ad1/icono-gmail.png" alt="Fernando%20Sa%CC%81nchez%20Meji%CC%81a%20-%20Consultor%20de%20riesgos%20de%20f7b8de619e6e431baffe88fe28410ad1/icono-gmail.png" width="40px" /> Correo: fer875nandosm@gmail.com
+<div style="font-size:1.5em"><img class="icon" src="Fernando%20Sa%CC%81nchez%20Meji%CC%81a%20-%20Consultor%20de%20riesgos%20de%20f7b8de619e6e431baffe88fe28410ad1/icono-gmail.png"/></div><div style="width:100%">Correo: fer875nandosm@gmail.com</div></figure>
+		<figure class="block-color-gray_background callout" style="white-space:pre-wrap;display:flex" id="fe9c2646-9380-4a59-b7d9-4ea6a692da51"><div style="font-size:1.5em"><img class="icon" src="Fernando%20Sa%CC%81nchez%20Meji%CC%81a%20-%20Consultor%20de%20riesgos%20de%20f7b8de619e6e431baffe88fe28410ad1/icono-gmail.png"/></div>
 
-</aside>
 
-<aside>
-<img src="Fernando%20Sa%CC%81nchez%20Meji%CC%81a%20-%20Consultor%20de%20riesgos%20de%20f7b8de619e6e431baffe88fe28410ad1/icono-gmail.png" alt="Fernando%20Sa%CC%81nchez%20Meji%CC%81a%20-%20Consultor%20de%20riesgos%20de%20f7b8de619e6e431baffe88fe28410ad1/icono-gmail.png" width="40px" /> Correo secundario: fer8075nandosm@gmail.com
+<img src="icono-gmail.png" alt="icono-gmail.png" width="20px"> Correo: fer875nandosm@gmail.com 
 
-</aside>
+<div style="font-size:1.5em">
+<img class="icon" <img src="icono-gmail.png" alt="icono-gmail.png" width="20px"> <div   style="width:100%">Correo: fer875nandosm@gmail.com</div>
+</div></figure><figure class="block-color-gray_background callout" style="white-space:pre-wrap;display:flex" id="fe9c2646-9380-4a59-b7d9-4ea6a692da51"><div style="font-size:1.5em"><img class="icon" ></div>
 
-<aside>
-<img src="https://www.notion.so/icons/phone-call_gray.svg" alt="https://www.notion.so/icons/phone-call_gray.svg" width="40px" /> Celular: (+52) 5621523271
 
-</aside>
 
-<aside>
-<img src="Fernando%20Sa%CC%81nchez%20Meji%CC%81a%20-%20Consultor%20de%20riesgos%20de%20f7b8de619e6e431baffe88fe28410ad1/LinkedIn-icon.png" alt="Fernando%20Sa%CC%81nchez%20Meji%CC%81a%20-%20Consultor%20de%20riesgos%20de%20f7b8de619e6e431baffe88fe28410ad1/LinkedIn-icon.png" width="40px" /> LinkedIn: [https://www.linkedin.com/in/fernando-sanchez-mejia/](https://www.linkedin.com/in/fernando-sanchez-mejia/)
 
-</aside>
 
-[https://www.linkedin.com/in/fernando-sanchez-mejia/](https://www.linkedin.com/in/fernando-sanchez-mejia/)
 
----
 
+
+<img src="icono-gmail.png" alt="icono-gmail.png" width="20px"> Correo secundario: fer8075nandosm@gmail.com
+
+<img src="https://www.notion.so/icons/phone-call_gray.svg" alt="https://www.notion.so/icons/phone-call_gray.svg" width="25px" /> Celular: (+52) 5621523271
+
+<img src="LinkedIn-icon.png" alt="LinkedIn-icon.png" width="20px" /> <div class="badge-base LI-profile-badge" data-locale="es_ES" data-size="medium" data-theme="dark" data-type="HORIZONTAL" data-vanity="fernando-sanchez-mejia" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://mx.linkedin.com/in/fernando-sanchez-mejia?trk=profile-badge">Fernando Sanchez Mejia</a></div> <!--Esta es la insignia que copiamos de LinkedIn, para probar si funciona el embebido-->
+              
 ## Sitios web
 
 Presento una muestra de los sitios web que he creado, así como una selección de cursos que he completado y cuyas notas deseo compartir. Esta información, que estoy ansioso/a por proporcionar, refleja mi compromiso con el aprendizaje constante y la creación de soluciones efectivas. Estoy seguro/a de que estos logros serán valiosos activos para oportunidades futuras
