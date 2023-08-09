@@ -34,7 +34,9 @@ Soy Consultor de Riesgos de Tecnologías de la Información, especializado en ay
 - Ciudad: Coyoacán, CDMX
 - Tengo disponibilidad para llamadas y correos de lunes a viernes de 10 a 14 y de 16 a 18.
 
+<!--
 <img src="icono-gmail.png" alt="icono-gmail.png" width="20px"> Correo: fer875nandosm@gmail.com 
+-->
 
 <div style="font-size:1.5em">
 <img class="icon" src="icono-gmail.png" alt="icono-gmail.png" width="20px"> <div   style="width:100%">Correo: fer875nandosm@gmail.com</div>
