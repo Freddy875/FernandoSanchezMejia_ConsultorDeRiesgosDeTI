@@ -36,19 +36,15 @@ Soy Consultor de Riesgos de Tecnologías de la Información, especializado en ay
 - Ciudad: Coyoacán, CDMX
 - Tengo disponibilidad para llamadas y correos de lunes a viernes de 10 a 14 y de 16 a 18.
 
-<div class="callout">
-    <img class="icon" src="icono-gmail.png" alt="icono-gmail.png" width="20px">
+<img class="icon" src="icono-gmail.png" alt="icono-gmail.png" width="20px">
     Correo: fer875nandosm@gmail.com
-</div>
 
 
-<div class="callout">
-    <img src="icono-gmail.png" alt="icono-gmail.png" width="20px"> Correo secundario: fer8075nandosm@gmail.com
-</div>
+<img src="icono-gmail.png" alt="icono-gmail.png" width="20px"> Correo secundario: fer8075nandosm@gmail.com
 
 <img src="https://www.notion.so/icons/phone-call_gray.svg" alt="https://www.notion.so/icons/phone-call_gray.svg" width="25px" /> Celular: (+52) 5621523271
 
-<img src="LinkedIn-icon.png" alt="LinkedIn-icon.png" width="20px" /> <div class="badge-base LI-profile-badge" data-locale="es_ES" data-size="medium" data-theme="dark" data-type="HORIZONTAL" data-vanity="fernando-sanchez-mejia" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://mx.linkedin.com/in/fernando-sanchez-mejia?trk=profile-badge">Fernando Sanchez Mejia</a></div> <!--Esta es la insignia que copiamos de LinkedIn, para probar si funciona el embebido-->
+<div class="badge-base LI-profile-badge" data-locale="es_ES" data-size="medium" data-theme="dark" data-type="HORIZONTAL" data-vanity="fernando-sanchez-mejia" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://mx.linkedin.com/in/fernando-sanchez-mejia?trk=profile-badge">Fernando Sanchez Mejia</a></div> <!--Esta es la insignia que copiamos de LinkedIn, para probar si funciona el embebido-->
               
 ## Sitios web
 
