@@ -34,10 +34,6 @@ Soy Consultor de Riesgos de Tecnologías de la Información, especializado en ay
 - Ciudad: Coyoacán, CDMX
 - Tengo disponibilidad para llamadas y correos de lunes a viernes de 10 a 14 y de 16 a 18.
 
-<div style="font-size:1.5em"><img class="icon" src="Fernando%20Sa%CC%81nchez%20Meji%CC%81a%20-%20Consultor%20de%20riesgos%20de%20f7b8de619e6e431baffe88fe28410ad1/icono-gmail.png"/></div><div style="width:100%">Correo: fer875nandosm@gmail.com</div></figure>
-		<figure class="block-color-gray_background callout" style="white-space:pre-wrap;display:flex" id="fe9c2646-9380-4a59-b7d9-4ea6a692da51"><div style="font-size:1.5em"><img class="icon" src="Fernando%20Sa%CC%81nchez%20Meji%CC%81a%20-%20Consultor%20de%20riesgos%20de%20f7b8de619e6e431baffe88fe28410ad1/icono-gmail.png"/></div>
-
-
 <img src="icono-gmail.png" alt="icono-gmail.png" width="20px"> Correo: fer875nandosm@gmail.com 
 
 <div style="font-size:1.5em">
