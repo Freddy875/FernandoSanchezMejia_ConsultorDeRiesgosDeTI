@@ -44,14 +44,17 @@ Soy Consultor de Riesgos de Tecnologías de la Información, especializado en ay
 
 <img src="https://www.notion.so/icons/phone-call_gray.svg" alt="https://www.notion.so/icons/phone-call_gray.svg" width="25px" /> Celular: (+52) 5621523271
 
-<img src="LinkedIn-icon.png" alt="LinkedIn-icon.png" width="25px"/><div class="badge-base LI-profile-badge" data-locale="es_ES" data-size="medium" data-theme="dark" data-type="HORIZONTAL" data-vanity="fernando-sanchez-mejia" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://mx.linkedin.com/in/fernando-sanchez-mejia?trk=profile-badge">Fernando Sanchez Mejia</a></div>          
+<img src="LinkedIn-icon.png" alt="LinkedIn-icon.png" width="25px"/>
+<div class="badge-base LI-profile-badge" data-locale="es_ES" data-size="medium" data-theme="dark" data-type="HORIZONTAL" data-vanity="fernando-sanchez-mejia" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://mx.linkedin.com/in/fernando-sanchez-mejia?trk=profile-badge">Fernando Sanchez Mejia</a></div>          
+
 ## Sitios web
 
 Presento una muestra de los sitios web que he creado, así como una selección de cursos que he completado y cuyas notas deseo compartir. Esta información, que estoy ansioso/a por proporcionar, refleja mi compromiso con el aprendizaje constante y la creación de soluciones efectivas. Estoy seguro/a de que estos logros serán valiosos activos para oportunidades futuras
 
 **Sway:** [https://sway.office.com/GDKJlmv2QJXFYJ7y?ref=Link&loc=play](https://sway.office.com/GDKJlmv2QJXFYJ7y?ref=Link&loc=play)
 
-[https://sway.office.com/GDKJlmv2QJXFYJ7y?ref=Link&loc=play](https://sway.office.com/GDKJlmv2QJXFYJ7y?ref=Link&loc=play)
+
+<iframe src="https://sway.office.com/GDKJlmv2QJXFYJ7y?ref=Link&loc=play](https://sway.office.com/GDKJlmv2QJXFYJ7y?ref=Link&loc=play" width="800" height="600" frameborder="0"></iframe>
 
 ****Estrategias para aprender en línea efectivamente:****
 
