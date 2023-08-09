@@ -60,11 +60,11 @@ Presento una muestra de los sitios web que he creado, así como una selección d
 
 [https://freddy875.github.io/EstrategiasParaAprenderEnLineaEfectivamente/](https://freddy875.github.io/EstrategiasParaAprenderEnLineaEfectivamente/)
 
-[https://freddy875.github.io/EstrategiasParaAprenderEnLineaEfectivamente/](https://freddy875.github.io/EstrategiasParaAprenderEnLineaEfectivamente/)
+<iframe src="https://freddy875.github.io/EstrategiasParaAprenderEnLineaEfectivamente/" width="800" height="600" frameborder="0"></iframe>
 
 **Masterclass de Design Thinking y Lean Startup:** [https://freddy875.github.io/MasterclassDeDesignThinkingyLeanStartup/](https://freddy875.github.io/MasterclassDeDesignThinkingyLeanStartup/)
 
-[https://freddy875.github.io/MasterclassDeDesignThinkingyLeanStartup/](https://freddy875.github.io/MasterclassDeDesignThinkingyLeanStartup/)
+<iframe src="https://freddy875.github.io/MasterclassDeDesignThinkingyLeanStartup/" width="800" height="600" frameborder="0"></iframe>
 
 ## Aptitudes principales
 
