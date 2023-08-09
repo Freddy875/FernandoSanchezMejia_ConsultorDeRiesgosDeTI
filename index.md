@@ -50,7 +50,6 @@ Soy Consultor de Riesgos de Tecnologías de la Información, especializado en ay
 
 <aside>
 <img src="https://www.notion.so/icons/phone-call_gray.svg" alt="https://www.notion.so/icons/phone-call_gray.svg" width="40px" /> Celular: (+52) 5621523271
-
 </aside>
 
 <aside>
