@@ -43,9 +43,9 @@ Soy Consultor de Riesgos de Tecnologías de la Información, especializado en ay
 Prueba del callout
 
 <div class="callout">
-    <img class="icon" src="icono-gmail.png" alt="icono-gmail.png" width="20px"> Correo: fer875nandosm@gmail.com
 </div>
 
+<img class="icon" src="icono-gmail.png" alt="icono-gmail.png" width="20px"> Correo: fer875nandosm@gmail.com
 
 
 
