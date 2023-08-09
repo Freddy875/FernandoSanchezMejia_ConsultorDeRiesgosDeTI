@@ -36,19 +36,15 @@ Soy Consultor de Riesgos de Tecnologías de la Información, especializado en ay
 - Ciudad: Coyoacán, CDMX
 - Tengo disponibilidad para llamadas y correos de lunes a viernes de 10 a 14 y de 16 a 18.
 
-<!--
-<img src="icono-gmail.png" alt="icono-gmail.png" width="20px"> Correo: fer875nandosm@gmail.com 
--->
-
-Prueba del callout
-
 <div class="callout">
 </div>
 
-<img class="icon" src="icono-gmail.png" alt="icono-gmail.png" width="20px"> Correo: fer875nandosm@gmail.com
+<img class="icon" src="icono-gmail.png" alt="icono-gmail.png" width="20px">
+Correo: fer875nandosm@gmail.com
 
 
-
+<div class="callout">
+</div>
 <img src="icono-gmail.png" alt="icono-gmail.png" width="20px"> Correo secundario: fer8075nandosm@gmail.com
 
 <img src="https://www.notion.so/icons/phone-call_gray.svg" alt="https://www.notion.so/icons/phone-call_gray.svg" width="25px" /> Celular: (+52) 5621523271
