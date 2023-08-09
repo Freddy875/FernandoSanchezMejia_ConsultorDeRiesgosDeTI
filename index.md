@@ -117,9 +117,9 @@ Presento una muestra de los sitios web que he creado, así como una selección d
 
 ## Lenguajes
 
-:mexico: 🇲🇽 Español, Nativo
+🇲🇽 Español, Nativo
 
-:us: 🇺🇸 English, 480 TOEFL (B1 intermediate)
+🇺🇸 English, 480 TOEFL (B1 intermediate)
 
 - Speaking - 60%
 - Listening - 60%
