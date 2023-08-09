@@ -54,8 +54,6 @@ Presento una muestra de los sitios web que he creado, así como una selección d
 **Sway:** [https://sway.office.com/GDKJlmv2QJXFYJ7y?ref=Link&loc=play](https://sway.office.com/GDKJlmv2QJXFYJ7y?ref=Link&loc=play)
 
 
-<iframe src="https://sway.office.com/GDKJlmv2QJXFYJ7y?ref=Link&loc=play" width="800" height="600" frameborder="0"></iframe>
-
 **Estrategias para aprender en línea efectivamente:**
 
 [https://freddy875.github.io/EstrategiasParaAprenderEnLineaEfectivamente/](https://freddy875.github.io/EstrategiasParaAprenderEnLineaEfectivamente/)
