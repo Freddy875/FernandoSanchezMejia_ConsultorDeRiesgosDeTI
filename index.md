@@ -48,7 +48,8 @@ Soy Consultor de Riesgos de Tecnologías de la Información, especializado en ay
 -->
 
 ![icono-gmail.png](icono-gmail.png) Correo: fer875nandosm@gmail.com
-<img width = "40px">
+<img src="icono-gmail.png" alt="icono-gmail.png" width="300">
+
 
 
 <aside>
