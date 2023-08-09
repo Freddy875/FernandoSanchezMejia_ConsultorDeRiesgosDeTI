@@ -45,7 +45,7 @@ Prueba del callout
 <div class="callout">
 </div>
 
-<img class="icon" src="icono-gmail.png" alt="icono-gmail.png" width="20px">Correo: fer875nandosm@gmail.com
+<img class="icon" src="icono-gmail.png" alt="icono-gmail.png" width="20px"> Correo: fer875nandosm@gmail.com
 
 
 
