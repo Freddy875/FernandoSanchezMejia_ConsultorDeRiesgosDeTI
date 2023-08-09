@@ -34,34 +34,11 @@ Soy Consultor de Riesgos de Tecnologías de la Información, especializado en ay
 - Ciudad: Coyoacán, CDMX
 - Tengo disponibilidad para llamadas y correos de lunes a viernes de 10 a 14 y de 16 a 18.
 
-<!--<aside>
-<img src="Fernando%20Sa%CC%81nchez%20Meji%CC%81a%20-%20Consultor%20de%20riesgos%20de%20f7b8de619e6e431baffe88fe28410ad1/icono-gmail.png" alt="Fernando%20Sa%CC%81nchez%20Meji%CC%81a%20-%20Consultor%20de%20riesgos%20de%20f7b8de619e6e431baffe88fe28410ad1/icono-gmail.png" width="40px" /> Correo: fer875nandosm@gmail.com
-
-</aside>
--->
-
-<!--
-<aside>
-![icono-gmail.png](icono-gmail.png) Correo: fer875nandosm@gmail.com
-<img width = "40px">
-</aside>
--->
-
 <img src="icono-gmail.png" alt="icono-gmail.png" width="20px"> Correo: fer875nandosm@gmail.com 
 
+<img src="icono-gmail.png" alt="icono-gmail.png" width="20px"> Correo secundario: fer8075nandosm@gmail.com
 
-
-
-
-<aside>
-<img src="Fernando%20Sa%CC%81nchez%20Meji%CC%81a%20-%20Consultor%20de%20riesgos%20de%20f7b8de619e6e431baffe88fe28410ad1/icono-gmail.png" alt="Fernando%20Sa%CC%81nchez%20Meji%CC%81a%20-%20Consultor%20de%20riesgos%20de%20f7b8de619e6e431baffe88fe28410ad1/icono-gmail.png" width="40px" /> Correo secundario: fer8075nandosm@gmail.com
-
-</aside>
-
-<aside>
-<img src="https://www.notion.so/icons/phone-call_gray.svg" alt="https://www.notion.so/icons/phone-call_gray.svg" width="40px" /> Celular: (+52) 5621523271
-
-</aside>
+<img src="https://www.notion.so/icons/phone-call_gray.svg" alt="https://www.notion.so/icons/phone-call_gray.svg" width="20px" /> Celular: (+52) 5621523271
 
 <aside>
 <img src="Fernando%20Sa%CC%81nchez%20Meji%CC%81a%20-%20Consultor%20de%20riesgos%20de%20f7b8de619e6e431baffe88fe28410ad1/LinkedIn-icon.png" alt="Fernando%20Sa%CC%81nchez%20Meji%CC%81a%20-%20Consultor%20de%20riesgos%20de%20f7b8de619e6e431baffe88fe28410ad1/LinkedIn-icon.png" width="40px" /> LinkedIn: [https://www.linkedin.com/in/fernando-sanchez-mejia/](https://www.linkedin.com/in/fernando-sanchez-mejia/)
